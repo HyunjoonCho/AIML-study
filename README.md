@@ -1,1 +1,2 @@
-# AIML-study
+# Data Science Study
+
